@@ -1,1 +1,1 @@
-therealaleph/MasterHttpRelayVPN-RUST|arm64-v8a.apk
+therealaleph/MasterHttpRelayVPN-RUST
